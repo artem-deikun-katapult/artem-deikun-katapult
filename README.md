@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![MasterHead](./assets/banner.png)](https://github.com/artem-deikun-katapult)
 ![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg)
 <!--
