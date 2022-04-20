@@ -1,6 +1,5 @@
 [![MasterHead](./assets/banner.png)](https://github.com/artem-deikun-katapult)
 ![Github snake svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-contribution-grid-snake.svg)
-
 # My main stack of technologies:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,6 +31,8 @@
 
 ### My main code editor is:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+[![KatapultBanner](./assets/katapult-banner.png)](https://github.com/artem-deikun-katapult)
 
 
 <!--
